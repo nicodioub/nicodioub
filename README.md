@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-blue)
+![Java](https://img.shields.io/badge/-Java-red)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![PHP](https://img.shields.io/badge/-PHP-purple)
+![C](https://img.shields.io/badge/-C-00599C)
+![Django](https://img.shields.io/badge/-Django-green)
+
