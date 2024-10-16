@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👨‍💻 Digital Apprentice at the Prefecture of Normandy and a Big Data & AI Engineer at ESIGELEC. Passionate about data science and always eager to explore new technologies. 🌍
+
+🌱 Currently learning advanced data analysis, machine learning, and refining my web development skills to create innovative solutions.
+
 <details>
   <summary>Languages & Tools</summary>
   
