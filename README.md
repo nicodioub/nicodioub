@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary>### Languages & Tools</summary>
+  <summary>Languages & Tools</summary>
   
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
