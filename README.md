@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages & Tools:
+<details>
+  <summary>### Languages & Tools</summary>
+  
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white)
 
+</details>
